@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "905c2fccd5e7f22f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9329c90167cd3c45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ba25d374b994b7f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acf0b0866d403323",
+    "type": "split",
+    "children": [
+      {
+        "id": "5176b1c7e8251e17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f1d2f38ea0ed0fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "efa611b87377f4e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6cff63373ba5a8d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c38e0ed3768afe2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d151ed8723a931f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ee46dca993de812",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a21ece56c54dcf6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7c0d683c0b51bca4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "598accb9b1080561",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "51e4e3bdd7430e93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "spoiler:Toggle spoiler on selection": false
+    }
+  },
+  "active": "7ba25d374b994b7f",
+  "lastOpenFiles": [
+    "index.md",
+    "Casus Belli 051.md",
+    "Casus Belli 999 _ template.md",
+    "Casus Belli 066.md",
+    "Casus Belli 037 & 038.md",
+    "Casus Belli 039.md",
+    "Casus Belli 040.md",
+    "Casus Belli 041.md",
+    "Casus Belli 042.md",
+    "Casus Belli 043.md",
+    "Casus Belli 044.md",
+    "Casus Belli 045.md",
+    "Casus Belli 046.md",
+    "Casus Belli 047.md",
+    "Casus Belli 048.md",
+    "Casus Belli 049.md",
+    "Casus Belli 050.md",
+    "Casus Belli 052.md",
+    "Casus Belli 053.md",
+    "Casus Belli 054.md",
+    "images/extras/casus_belli_054-handbook_3.jpg",
+    "images/extras/casus_belli_054-handbook_2.jpg",
+    "images/extras/casus_belli_054-handbook_1.jpg",
+    "Casus Belli 055.md",
+    "Casus Belli 056.md",
+    "images/extras/casus_belli_056-bloodlust.png",
+    "images/extras/dim. 22 nov. 2026 17:34:01.png",
+    "Casus Belli 057.md",
+    "Casus Belli 058.md",
+    "Casus Belli 059.md",
+    "Casus Belli 060.md",
+    "images/extras/casus_belli_066-bloodlust.png",
+    "images/extras/casus_belli_065-vampire.png",
+    "casus_belli_065-vampire.png",
+    "images/extras/casus_belli_066-echo3.jpg",
+    "images/extras/casus_belli_066-echo2.jpg",
+    "images/extras",
+    "images/Untitled Folder",
+    "images/couvertures",
+    "images"
+  ]
+}

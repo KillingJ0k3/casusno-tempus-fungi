@@ -1,0 +1,29 @@
+properties:
+  note.série:
+    displayName: revue
+views:
+  - type: table
+    name: Tableau des chroniques
+    filters:
+      and:
+        - file.hasProperty("critique/numéro")
+    order:
+      - file.name
+      - revue
+      - version
+      - numéro
+      - critique/auteur
+      - critique/date
+      - critique/numéro
+      - critique/link
+    sort:
+      - property: série
+        direction: ASC
+      - property: niveau
+        direction: ASC
+    summaries: {}
+    columnSize:
+      file.name: 335
+      note.niveau: 80
+      note.numéro: 82
+      note.critique/numéro: 87
