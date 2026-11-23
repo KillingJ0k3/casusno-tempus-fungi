@@ -110,4 +110,4 @@ On finit avec les recommandations de Tristan et la partie Universalis où j’ai
 > [!spoiler]-
 > ![[casus_belli_064-inspiration.png]]
 
-A dans deux mois maintenant !
+A dans [[Casus Belli 065|deux mois]] maintenant !

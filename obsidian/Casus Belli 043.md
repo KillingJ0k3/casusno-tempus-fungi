@@ -52,6 +52,6 @@ Je termine comme d’habitude sur les scénarios qui peuvent justifier que vous 
 
 Pas étonnant avec de telles représentations que Runequest continue à souffrir de sa réputation d’être un excellent jeu med fan, mais pas crédible parce qu’il y a des canards ! Je rappelle que quelques numéros avant (CB 38), on avait un autre scénario Runequest, notamment du jeune Frédéric Weil qui traînait lui aussi ses guêtres comme le jeune @Tristan , et qui était bien plus respectueux et ancré dans la mythologie Runequest (même si son développement n’était pas foufou).  
   
-Au final, pas un numéro très mémorable (\*) : pour faire durer le teaser, le changement est en effet à venir avec le numéro 44 !  
+Au final, pas un numéro très mémorable (\*) : pour faire durer le teaser, le changement est en effet à venir avec le [[Casus Belli 044|numéro 44]] !  
   
 (\*) si le numéro vous a quand même donné envie de l'ajouter dans votre collection, il est trouvable à 5 € sur Rakuten.

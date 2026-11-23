@@ -102,4 +102,4 @@ Beaucoup de production côté BD en prévision de Noël, je passe toutefois rapi
   
 Harry Dickson, le Sherlock Holmes américain, est en effet mis en avant sur la collection in extenso à la fois des œuvres originales de Jean Ray, mais aussi des autres volumes écrits par d’autres auteurs qui ont semble-t-il moins convaincu Tristan. Tristan nous chronique tout plein de livres historiques qui couvrent du Haut Moyen Âge au Siècle des Lumières, et tout plein d’autres choses qui rendent honneur au titre Universalis de la rubrique, notamment un Incorruptibles écrit par Eliot Ness lui-même, et racontant ses mémoires 30 ans après avoir fait tomber Capone.  
   
-Je termine cette revue roborative pour souhaiter en avance une bonne année 1991 : rendez-vous dans deux mois maintenant !
+Je termine cette revue roborative pour souhaiter en avance une bonne année 1991 : rendez-vous dans [[Casus Belli 061|deux mois]] maintenant !

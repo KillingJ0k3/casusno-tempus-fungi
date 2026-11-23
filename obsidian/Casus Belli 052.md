@@ -72,4 +72,4 @@ La partie Wargames participe aussi à ne pas s’ennuyer pendant les vacances d�
   
 La partie Ludotique vient finir de compléter le tout avec un Battletech encensé par Pierre Rosenthal, et un War in Middle Earth défoncé par le même Pierre. On annonce aussi une série de titres à venir « Gary Gygax présente » maintenant que ce dernier essaye de vivre par son nom et sa marque personnelle, mais Pierre garde une prudente réserve en attendant de voir.  
   
-Et rendez-vous pour la rentrée !
+Et rendez-vous [[Casus Belli 053|pour la rentrée]] !

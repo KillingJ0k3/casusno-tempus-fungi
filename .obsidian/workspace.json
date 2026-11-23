@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d15949bc50450e27",
+        "id": "6d47732ac146d0f5",
         "type": "tabs",
         "children": [
           {
-            "id": "84341ecab01a57bb",
+            "id": "2ff6dcdecfbb305c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/Casus Belli 039.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Casus Belli 039"
-            }
-          },
-          {
-            "id": "fecfce321bbc306f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/Casus Belli 052.md",
+                "file": "obsidian/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Casus Belli 052"
+              "title": "index"
             }
           }
         ]
@@ -69,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"![:\"",
+                "query": "numéro ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/Casus Belli 039.md",
+                "file": "obsidian/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/Casus Belli 039.md",
+                "file": "obsidian/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/Casus Belli 039.md",
+                "file": "obsidian/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "obsidian/Casus Belli 039.md"
+                "file": "obsidian/index.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -215,9 +201,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "ba2f145f455da96d",
+  "active": "2ff6dcdecfbb305c",
   "lastOpenFiles": [
-    "obsidian/index.md",
+    "obsidian/Casus Belli 066.md",
+    "obsidian/Casus Belli 041.md",
+    "obsidian/Casus Belli 040.md",
+    "obsidian/Casus Belli 039.md",
+    "obsidian/Casus Belli 037 & 038.md",
+    "obsidian/Casus Belli 042.md",
+    "obsidian/Casus Belli 043.md",
+    "obsidian/Casus Belli 044.md",
+    "obsidian/Casus Belli 045.md",
+    "obsidian/Casus Belli 046.md",
+    "obsidian/Casus Belli 047.md",
+    "obsidian/Casus Belli 048.md",
+    "obsidian/Casus Belli 049.md",
+    "obsidian/Casus Belli 050.md",
+    "obsidian/Casus Belli 051.md",
+    "obsidian/Casus Belli 052.md",
+    "obsidian/Casus Belli 053.md",
+    "obsidian/Casus Belli 054.md",
+    "obsidian/Casus Belli 055.md",
+    "obsidian/Casus Belli 056.md",
+    "obsidian/Casus Belli 057.md",
+    "obsidian/Casus Belli 058.md",
+    "obsidian/Casus Belli 059.md",
+    "obsidian/Casus Belli 060.md",
+    "obsidian/Casus Belli 061.md",
+    "obsidian/Casus Belli 062.md",
+    "obsidian/_Tableau des chroniques.base",
     "quartz/node_modules/@manypkg/get-packages/node_modules/@changesets/types/dist/declarations/src/index.d.ts",
     "quartz/node_modules/read-yaml-file/node_modules/js-yaml/lib/js-yaml/type/js/regexp.js",
     "quartz/node_modules/read-yaml-file/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js",
@@ -227,21 +239,6 @@
     "quartz/node_modules/gray-matter/node_modules/js-yaml/lib/js-yaml/type/js/regexp.js",
     "quartz/node_modules/@manypkg/get-packages/node_modules/@changesets/types/dist/declarations/src",
     "quartz/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
-    "quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
-    "quartz/node_modules/@manypkg/get-packages/node_modules/@changesets/types/README.md",
-    "quartz/node_modules/@manypkg/get-packages/node_modules/@changesets/types/CHANGELOG.md",
-    "quartz/node_modules/@manypkg/find-root/node_modules/@types/node/README.md",
-    "quartz/node_modules/parse-entities/node_modules/@types/unist/README.md",
-    "quartz/node_modules/@manypkg/get-packages/node_modules/ignore/README.md",
-    "quartz/node_modules/@manypkg/get-packages/node_modules/slash/readme.md",
-    "quartz/node_modules/@manypkg/get-packages/node_modules/globby/readme.md",
-    "quartz/node_modules/@manypkg/get-packages/node_modules/fs-extra/README.md",
-    "quartz/node_modules/@manypkg/get-packages/node_modules/fs-extra/CHANGELOG.md",
-    "quartz/node_modules/@manypkg/find-root/node_modules/fs-extra/CHANGELOG.md",
-    "quartz/node_modules/@manypkg/find-root/node_modules/fs-extra/README.md",
-    "quartz/node_modules/@parcel/watcher/node_modules/picomatch/README.md",
-    "quartz/node_modules/@changesets/write/node_modules/prettier/README.md",
-    "quartz/node_modules/@changesets/apply-release-plan/node_modules/prettier/README.md",
     "quartz/public/images/extras/casus_belli_066-zargos.jpg",
     "quartz/public/images/extras/casus_belli_066-vampire3.png",
     "quartz/public/images/extras/casus_belli_066-vampire2.png",
@@ -252,17 +249,6 @@
     "quartz/public/images/extras/casus_belli_066-bloodlust2.jpg",
     "quartz/public/images/extras/casus_belli_066-bloodlust.png",
     "quartz/public/images/extras/casus_belli_065-vampire.png",
-    "quartz/node_modules/wrap-ansi/node_modules/strip-ansi/readme.md",
-    "quartz/node_modules/wrap-ansi/node_modules/ansi-regex/readme.md",
-    "quartz/node_modules/wrap-ansi/node_modules/string-width/readme.md",
-    "quartz/node_modules/string-width/node_modules/ansi-regex/readme.md",
-    "quartz/node_modules/string-width/node_modules/strip-ansi/readme.md",
-    "quartz/node_modules/serve-handler/node_modules/brace-expansion/README.md",
-    "quartz/node_modules/serve-handler/node_modules/minimatch/README.md",
-    "quartz/node_modules/serve-handler/node_modules/balanced-match/README.md",
-    "quartz/node_modules/serve-handler/node_modules/balanced-match/LICENSE.md",
-    "quartz/node_modules/read-yaml-file/node_modules/js-yaml/README.md",
-    "quartz/node_modules/read-yaml-file/node_modules/argparse/README.md",
     "quartz/docs/Canvas.canvas"
   ]
 }

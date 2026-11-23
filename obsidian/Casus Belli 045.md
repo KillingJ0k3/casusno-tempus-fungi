@@ -78,4 +78,4 @@ La partie Wargames est consacrée à la guerre navale moderne avec un très bon 
 - Une critique de **Guet Apens**, un jeu de figurines médiévales historiques de Jean-Jacques Petit avec des décors à monter en 3D qui n’aura pas percé entre ce qui existait avec Cry Havoc et Warhammer…  
 - Un scénario **ASL** Mai 1945 avec un affrontement… soviétiques contre américains ! Même si la parenthèse de la Guerre Froide est en train de se refermer, elle reste encore d’actualité dans les esprits de cette année 1988  
   
-On termine avec ceci pour se donner donc très vite rdv pour le numéro 46, été 1988 !
+On termine avec ceci pour se donner donc très vite rdv pour le [[Casus Belli 046|numéro 46]], été 1988 !

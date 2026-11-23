@@ -17,6 +17,8 @@ views:
       - critique/numéro
       - critique/link
     sort:
+      - property: image
+        direction: DESC
       - property: série
         direction: ASC
       - property: niveau
@@ -27,3 +29,4 @@ views:
       note.niveau: 80
       note.numéro: 82
       note.critique/numéro: 87
+    image: note.image

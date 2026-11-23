@@ -118,4 +118,4 @@ Chez Tristan et les Inspis Universalis, ce sera une revue assez classique pour c
   
 Enfin du côté des BD, la sélection est également riche. On y retrouve les séries maintenant bien installées : le tome 7 de XIII, le tome 16 de Thorgal, ou encore le tome 3 d’Aquablue, et en plus historique le tome 6 des 7 Vies de L’Epervier ou le tome 3 de la Sueur du Soleil. A côté de ces locomotives de plus en plus imposantes, d’autres références essayent de vivre avec toujours le même souci de Casus de servir de source à scénarios – ainsi pour les deux premiers titres pour du contemporain historique sur des thèmes quasiment inexistant dans les JDR alors commercialisés, et pour le dernier pour du Japon médiéval avec Bushido ou AD&D Oriental Adventures.  
   
-J’arrête pour ce numéro et à dans deux mois !
+J’arrête pour ce numéro et à dans [[Casus Belli 062|deux mois]] !

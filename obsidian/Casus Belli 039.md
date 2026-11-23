@@ -8,6 +8,7 @@ revue: Casus Belli
 version: v1
 numéro:
   - "039"
+image: images/couvertures/casus_belli_039.png
 ---
 Démarrage de ma rétrospective pour sychroniser du Casus Old School avec le numéro sorti par BBE. Afin de m’échauffer, je vous fais donc une revue du **numéro 39, été 1987**, un été qui ne sera ni particulièrement chaud, ni pourri, après la très grosse vague de froid de début d’année.  
 

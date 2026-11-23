@@ -55,4 +55,4 @@ Vu la dimension historique et géographique de cette partie du monde, le sujet e
   
 La rubrique du courrier des lecteurs, récente mais pas encore très installée, vient bizarrement se trouver en fin de ce numéro. Elle est bien fournie : 2 pages écrites toutes petites, où on relèvera la première missive d’Edouard Kloczko qui portait l’étendard du Djihadisme Tolkieniste à l’époque (sans surprise, il voue aux gémonies ici la version JRTM), ou une passe d’arme politique entre lecteurs et Frank Stora, suite à sa critique sur le jeu de la Guerre Civile Espagnole, et sa conclusion maladroite pour ne pas dire douteuse…  
   
-Le Casus se referme et rendez-vous pour le prochain !
+Le Casus se referme et rendez-vous pour [[Casus Belli 051|le prochain]] !

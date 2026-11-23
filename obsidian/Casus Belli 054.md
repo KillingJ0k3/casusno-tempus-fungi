@@ -120,4 +120,4 @@ La production des scénarios est complétée avec quelques aides de jeu. D’abo
   
 La partie Wargame est donc surtout occupée pour ce numéro sur le jeu proposé, à partir d’un jeu déjà publié par GDW depuis quelques années. Il restera donc peu de place et celle-ci sera surtout consacrée pour parler de la réédition sous la marque Eurogames des anciens wargames d’International Team : Yom Kippur, Okinawa, Little Big Horn. Et la rubrique Jeu de Plateau présente Fortress America, gros jeu MB en anglais et toujours sous le thème névrosé d’une invasion des USA par les communistes, alors que le Mur vient de s’effondrer… C'était déjà Make America Great Again !  
   
-Et on se retrouve maintenant dans deux mois pour se souhaiter une bonne année 1990 !
+Et on se retrouve maintenant dans [[Casus Belli 055|deux mois]] pour se souhaiter une bonne année 1990 !

@@ -35,4 +35,4 @@ Je termine sur la rubrique des Petites Annonces qui est toujours intéressante p
   
 Au final, un Casus pas vraiment mémorable en raison de sa parution très accélérée. On sent que la rédac a dû utiliser du matériel qui avait été mis au congélo okazou et s’est surtout appuyée sur les rédacteurs capables de sortir un papier très rapidement : on trouve ainsi trois critiques pour du matériel Living Steel qui n’a ni marqué l’époque, ni la postérité. Et, après son premier scénario Cthulhu dans le numéro précédent, c’est peut-être ce qui a pavé la voie au prolixe Tristan de fournir du contenu rapidement (à moins que le scénario Maléfices avait déjà été envoyé très antérieurement) ?  
   
-Rendez-vous pour le prochain numéro 43 l’année prochaine en 1988 !
+Rendez-vous pour le prochain [[Casus Belli 043|numéro 43]] l’année prochaine en 1988 !

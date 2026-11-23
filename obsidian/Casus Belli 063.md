@@ -160,4 +160,4 @@ Pour se distraire, des récits d’aventures historiques imaginaires ou réels :
   
 Enfin, actualité ciné oblige mais avec toujours la contrainte de parution d’un bimestriel, Tristan recommande la novélisation de Danse avec les Loups, ou s’empresse de recommander d’acheter la VHS de Cyrano de Bergerac. Je me rends compte que contrairement aux inspis SF et BD, j’ai fait une revue un peu longue de la partie de Tristan mais j’avoue que les références citées, même 35 ans plus tard, continuent à faire saliver.  
   
-Et nous terminons donc avec ceci, rendez-vous donc au [[Casus Belli 066|prochain bimestre]] !!
+Et nous terminons donc avec ceci, rendez-vous donc au [[Casus Belli 064|prochain bimestre]] !!
