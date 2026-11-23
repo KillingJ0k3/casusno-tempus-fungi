@@ -246,7 +246,6 @@ plugins:
         - description
         - tags
         - aliases
-        - critique/auteur
       excludedProperties: []
       hidePropertiesView: false
     order: 5
