@@ -107,7 +107,7 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: default
       mode: both
