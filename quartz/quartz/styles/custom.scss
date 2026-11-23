@@ -1,0 +1,70 @@
+@use "./variables.scss" as *;
+
+// put your custom CSS here!
+
+article img[alt*="center"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+article img[alt*="w-25"] { width: 25%; }
+article img[alt*="w-50"] { width: 50%; }
+article img[alt*="w-75"] { width: 75%; }
+article img[alt*="w-100"] { width: 100%; }
+
+// search results with blank background
+
+.search {
+  // 1. Assombrir et opacifier l'arrière-plan global derrière la modale
+  .search-container {
+    backdrop-filter: none !important;
+    background-color: rgba(0, 0, 0, 0.75) !important;
+  }
+
+  // 2. Rendre la boîte de recherche et les résultats 100 % opaques
+  .search-space {
+    background-color: var(--light) !important;
+    border: 1px solid var(--lightgray);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+
+    > input {
+      background-color: var(--light) !important;
+      color: var(--dark) !important;
+    }
+
+    .search-layout {
+      background-color: var(--light) !important;
+
+      .results-container,
+      .preview-container {
+        background-color: var(--light) !important;
+      }
+    }
+  }
+}
+
+
+// hightlihgt 
+
+.search {
+  .highlight,
+  mark {
+    background-color: #ffeb3b !important;
+    color: #000000 !important;
+    padding: 0 3px;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+}
+
+.search .results-container {
+  .highlight {
+    background-color: var(--textHighlight) !important;
+    color: var(--dark) !important;
+    padding: 0 3px;
+    border-radius: 3px;
+    font-weight: 600;
+    border-bottom: 2px solid var(--secondary);
+  }
+}
