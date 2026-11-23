@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/index.md",
+                "file": "obsidian/Casus Belli 039.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Casus Belli 039"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"![:\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/index.md",
+                "file": "obsidian/Casus Belli 039.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/index.md",
+                "file": "obsidian/Casus Belli 039.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/index.md",
+                "file": "obsidian/Casus Belli 039.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,13 +184,25 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "634f1df645ed42f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "obsidian/Casus Belli 039.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +215,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "84341ecab01a57bb",
+  "active": "ba2f145f455da96d",
   "lastOpenFiles": [
+    "obsidian/index.md",
     "quartz/node_modules/@manypkg/get-packages/node_modules/@changesets/types/dist/declarations/src/index.d.ts",
     "quartz/node_modules/read-yaml-file/node_modules/js-yaml/lib/js-yaml/type/js/regexp.js",
     "quartz/node_modules/read-yaml-file/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js",
@@ -214,7 +228,6 @@
     "quartz/node_modules/@manypkg/get-packages/node_modules/@changesets/types/dist/declarations/src",
     "quartz/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
     "quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
-    "quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
     "quartz/node_modules/@manypkg/get-packages/node_modules/@changesets/types/README.md",
     "quartz/node_modules/@manypkg/get-packages/node_modules/@changesets/types/CHANGELOG.md",
     "quartz/node_modules/@manypkg/find-root/node_modules/@types/node/README.md",
