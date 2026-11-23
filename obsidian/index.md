@@ -1,8 +1,6 @@
 ---
 title: "Accueil"
 ---
-
-
 Sauvegarde des critiques des numéros de **Casus Belli v1** (édité par Excelsior) publiées sur le forum Casus Belli, topic "[Tempus Fungi](https://www.casusno.fr/viewtopic.php?t=40569)". Ces textes restent la propriété de leur auteur, en l'occurrence [Vociférator](https://www.casusno.fr/memberlist.php?mode=viewprofile&u=4107) et sont simplement backupés ici (notamment les images).
 
 ## Liens connexes
@@ -17,3 +15,4 @@ Sauvegarde des critiques des numéros de **Casus Belli v1** (édité par Excelsi
 - "**Le Scénotaphe**" (lien : http://casquenoir.free.fr/publis.php) recense tous les scénarios
 - "**Bastion rôliste**" (lien : http://bastion.free.fr/casus.htm) propose également un [index de tous les scénarios](http://bastion.free.fr/casus.htm)
 - "**Fanzines JdR Wiki**" (lien : http://fanzines.jdr.wiki.free.fr/wiki/index.php?title=Casus_Belli_1e_%C3%89poque) un index des numéros
+
