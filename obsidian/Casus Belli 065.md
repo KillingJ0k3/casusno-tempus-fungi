@@ -23,7 +23,7 @@ Aux Etats-Unis, deux symboles marquants de cette nouvelle décennie : un obscur 
   
 Culturellement, la France n’est cependant pas en reste puisque c’est l’apparition du jeu de hasard Millionnaire avec sa fameuse émission TV impérissable !  
   
-Il est temps de passer à des choses plus sérieuses avec le Casus de ce bimestre. Celui-ci est disponible quasiment à la Rentrée Scolaire (qui a lieu pour cette année le 10 septembre et qui me voit partir dans un lycée complètement différent de mon groupe de jeu d’alors, ce qui va beaucoup plus espacer ma pratique ![:roll:](https://www.casusno.fr/images/smilies/icon_rolleyes.gif "Euh ???") ). On devinera sans trop de difficulté, surtout pour @Damien Coltice , que la couverture pour ce numéro 65 est de Guillaume Sorel, qui démarre juste sa carrière dans la BD (L’Île des Morts est en préparation, mais n’est pas encore paru).  
+Il est temps de passer à des choses plus sérieuses avec le Casus de ce bimestre. Celui-ci est disponible quasiment à la Rentrée Scolaire (qui a lieu pour cette année le 10 septembre et qui me voit partir dans un lycée complètement différent de mon groupe de jeu d’alors, ce qui va beaucoup plus espacer ma pratique :roll_eyes:). On devinera sans trop de difficulté, surtout pour @Damien Coltice , que la couverture pour ce numéro 65 est de Guillaume Sorel, qui démarre juste sa carrière dans la BD (L’Île des Morts est en préparation, mais n’est pas encore paru).  
 
 ![[casus_belli_065.png|w-75|center]]
 
